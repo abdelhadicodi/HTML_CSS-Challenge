@@ -1,0 +1,86 @@
+body{
+    background-color:rgb(85, 69, 69);
+}
+.menu{
+    margin-left: 400px;
+    max-width: 500px; 
+    background-image: url(https://i.pinimg.com/originals/0c/10/6b/0c106b9f0006f167fe6f94a145ae562c.png);
+    padding: 40px;
+    width:900px;
+    height: 150px;
+    background-position: 50%;
+}
+h1{
+    margin-top: 26%;
+}
+.BMW{
+    color:white;
+    text-decoration: none;
+    font-size: 40px;
+}
+.BMW:hover{
+    color: red;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.list{
+    margin-left: 400px;
+    max-width: 500px;
+    padding: 20px;
+    text-align: center;
+    padding: 20px;
+}
+.first-ul{
+display: flex;
+flex-direction: row;
+list-style-type: none;
+
+
+}
+.first-ul li{
+    margin: 0 20px;
+    
+}
+a{
+    background-color: black;
+    color: white;
+    font-size: 20px;
+    text-decoration: none;
+}
+a:hover{
+    color: red;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+p{
+    font-size: 15px;
+    text-align: left;
+
+}
+h3{
+    text-align: right;
+    margin-top: -270px;
+    margin-right: 175px;
+}
+.history{
+    font-size: 12px;
+    text-align: left;
+    text-shadow: 10px;
+    margin-left: 200px;
+}
+.one{
+    margin-left: 200px;
+}
+.second{
+    margin-top: 120px;
+}
+.name{
+    font-size: 15px;
+    border-radius: 15px;
+    padding: 5px;
+}
+.email{
+    font-size: 15px;
+    border-radius: 15px;
+    padding: 5px;
+    
+}
