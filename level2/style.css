@@ -1,0 +1,78 @@
+body{
+    background-image: url(https://media.istockphoto.com/id/1220101964/photo/pouring-coffee-with-smoke-on-a-cup-and-coffee-beans-on-burlap-sack-on-black-background.jpg?s=612x612&w=0&k=20&c=uR1oUz1TyGj9cjmXM-kwsPCLwCFznEyvqs1yqS8fGvI=);
+    
+    
+    
+    
+}
+h1{
+   font-size: 40px;
+   text-align: center;
+   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; 
+}
+h2 {
+    font-size: 25px;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+ li{
+    float: left;
+    list-style-type: none;
+}
+.horizontal li a {
+  color: white;
+  padding: 5px;
+  display: block;
+  margin-left: 11px;  
+  padding: 6px;  
+}
+
+.horz{
+    float: left;
+  background-color: black;
+    
+}
+hr{
+    height: 3px;
+    background-color: black;
+}
+.menu{
+    margin-left: 400px;
+    max-width: 500px; 
+    background-color:grey;
+    padding: 20px;
+}
+.drink{
+    font-size:25px ;
+}
+.image{
+    width: 30%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 20px;
+}
+.coffe{
+    font-size: 25px;
+}
+.price-coffee{
+    text-align:right;
+    font-size: 20px;
+    margin-right: 40px;
+}
+a{
+    margin-bottom: 50px;
+    font-size: 20px;
+    margin-left: 200px;
+    background-color: black;
+    color: white;
+    text-decoration: none;
+    padding: 5px;
+    border-radius: 10px;
+    position: relative;
+}
+
+a:hover{ 
+    color:red;
+}
